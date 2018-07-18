@@ -10,4 +10,4 @@
   
 ---
 
-##### Скринкаст "Основы React.js"
+##### [Скринкаст "Основы React.js"](https://github.com/ozor/react/blob/master/javascript.ru)

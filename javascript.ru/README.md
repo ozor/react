@@ -6,7 +6,7 @@
 
 ### Выпуски скринкаста
 
-1. Введение, компонентный подход
+1. [Введение, компонентный подход](https://github.com/ozor/react/tree/master/javascript.ru/lesson01)
 2. Настройка окружения, create-react-app
 3. JSX - синтаксис для разметки в React.js
 4. React-компонент, передача данных
